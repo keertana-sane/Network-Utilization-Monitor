@@ -74,25 +74,6 @@ h1 iperf -c 10.0.0.2
 
 ---
 
-## 📸 Screenshots
-
-### Topology
-
-![Topology](screenshots/topology.png)
-
-### Ping All
-
-![Pingall](screenshots/pingall.png)
-
-### Ping Test
-
-![Ping](screenshots/ping.png)
-
-### Bandwidth Test
-
-![Iperf](screenshots/iperf.png)
-
----
 
 ##  Conclusion
 
